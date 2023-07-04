@@ -1,0 +1,19 @@
+html,
+#map-canvas, #map {
+  height: 500px;
+  width: 500px;
+  margin: 0px;
+  padding: 0px
+}
+
+h4 {
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+}
+
+#test{
+  margin: 0;
+}
